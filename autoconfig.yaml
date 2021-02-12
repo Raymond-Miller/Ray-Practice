@@ -30,3 +30,7 @@ Standards:
         Type: Checkpoint
         UID: f598b13df031705951e4a01c268d4ef4
         Path: /01-example-unit/03-checkpoint.md
+      -
+        Type: Lesson
+        UID: d631684d5dcc977f5bc75a9dfcaf0562
+        Path: /01-example-unit/raysfile.md
